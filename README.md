@@ -6,7 +6,7 @@ react homepage to AWS S3 - github actions
 
 ### 📂 1. 전체 폴더 구조 (목표)
 
-파일 탐색기(VS Code)에서 아래와 같은 구조가 되도록 빈 파일과 폴더를 만들어주세요.
+파일 탐색기(VS Code)에서 아래와 같은 구조가 되도록 빈 파일과 폴더를 만들어주세요..
 
 ```text
 movie-booking-system/        (프로젝트 최상위 폴더)
